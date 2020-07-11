@@ -9,7 +9,9 @@
 
 Hi, I've been developing iOS and Swift applications for 8 years, the last 3 years of that time remotely.
 Today I work at Plurall, the largest basic education app in Brazil with almost 2 million active users. 
-It was largely responsible for assigning the remote study in the COVID 19 pandemic
+It was largely responsible for assigning the remote study in the COVID 19 pandemic.
+
+
 I've worked on more than 30 applications that are hosted in the App Store, some of them with millions of users. 
 I have experience with products. Most of my experiences I helped and improved products to better satisfy the customer's needs. 
 In most cases presenting solutions that could be made within the app to help or even try to better understand the needs.
