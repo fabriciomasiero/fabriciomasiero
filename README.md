@@ -1,23 +1,42 @@
-# Fabrício Masiero
+# Hi, I'm Fabrício Masiero! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciomasiero/)](https://www.linkedin.com/in/fabriciomasiero/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fabri_masiero)](https://twitter.com/fabri_masiero)
-[![DEV.to Badge](https://img.shields.io/static/v1?label=DEV.to&message=Articles&color=pink&link=https://dev.to/fabriciomasiero)](https://dev.to/fabriciomasiero)
-[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=Articles&color=black&link=https://medium.com/@fabriciomasiero)](https://medium.com/@fabriciomasiero)
+![Apple Platforms Developer](https://img.shields.io/badge/Apple%20Platforms-Developer-blue?style=for-the-badge&logo=apple)
 
-## About me
+I'm an **Apple Platforms Developer** with over 12 years of experience, working on projects in sports, music, and education industries. Passionate about creating innovative and high-quality applications that positively impact people's lives.
 
-Hi, I've been developing iOS and Swift applications for 8 years, the last 3 years of that time remotely.
-Today I work at Plurall, the largest basic education app in Brazil with almost 2 million active users. 
-It was largely responsible for assigning the remote study in the COVID 19 pandemic.
+## 🚀 Skills
 
+![Swift](https://img.shields.io/badge/Swift-5-orange?style=flat-square&logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-2.0-blue?style=flat-square&logo=swift)
+![UIKit](https://img.shields.io/badge/UIKit-Framework-red?style=flat-square&logo=apple)
+![Objective-C](https://img.shields.io/badge/Objective--C-Language-blue?style=flat-square&logo=apple)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-Dependency_Manager-red?style=flat-square&logo=cocoapods)
+![Swift Package Manager](https://img.shields.io/badge/SPM-Dependency_Manager-green?style=flat-square&logo=swift)
+![REST & SOAP](https://img.shields.io/badge/REST%20%26%20SOAP-APIs-yellow?style=flat-square)
+![Continuous Integration](https://img.shields.io/badge/CI-Tools-blue?style=flat-square&logo=gitlab)
+![CoreData](https://img.shields.io/badge/CoreData-Framework-purple?style=flat-square&logo=apple)
+![Code Architecture](https://img.shields.io/badge/Code_Architecture-Principles-brightgreen?style=flat-square)
+![XMPP](https://img.shields.io/badge/XMPP-Protocol-lightgrey?style=flat-square)
+![Teamwork & Commitment](https://img.shields.io/badge/Teamwork%20%26%20Commitment-Soft_Skills-9cf?style=flat-square)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-Tools-red?style=flat-square&logo=testing-library)
 
-I've worked on more than 30 applications that are hosted in the App Store, some of them with millions of users. 
-I have experience with products. Most of my experiences I helped and improved products to better satisfy the customer's needs. 
-In most cases presenting solutions that could be made within the app to help or even try to better understand the needs.
+## 💼 Experience
+
+- **Senior Apple Platforms Engineer** at *FloSports* (August 2022 - Present)
+- **Senior Apple Platforms Engineer** at *Super Hi-Fi* (September 2020 - May 2022)
+- **Senior iOS Engineer** at *X-Team* (September 2020 - Present)
+- **Staff iOS Engineer** at *Somos Educação* (June 2017 - August 2020)
+
+## 🎓 Education
+
+- **Bachelor of Computer Science** from *Estácio de Sá University* (Graduated December 2020)
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabr%C3%ADcio_Masiero-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/fabriciomasiero)
+[![GitHub](https://img.shields.io/badge/GitHub-fabriciomasiero-black?style=flat-square&logo=github)](https://github.com/fabriciomasiero)
+[![Website](https://img.shields.io/badge/Website-fabriciomasiero.github.io-darkgreen?style=flat-square)](https://fabriciomasiero.github.io)
 
 **I code for a purpose.**
-
-See more at [fabriciomasiero.com](https://fabriciomasiero.github.io)
 
 ---
