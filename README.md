@@ -21,7 +21,7 @@ I'm an **Apple Platforms Developer** with over 12 years of experience, working o
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-Tools-red?style=flat-square&logo=testing-library)
 
 <!-- [![Fab's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fabriciomasiero&count_private=true&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciomasiero&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciomasiero&hide_progress=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💼 Experience
