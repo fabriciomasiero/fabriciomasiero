@@ -22,7 +22,7 @@ I'm an **Apple Platforms Developer** with over 12 years of experience, working o
 
 <!-- https://github-readme-stats-sigma-five.vercel.app/api -->
 <!-- https://github-readme-stats.vercel.app/api?username=fabriciomasiero -->
-[![Fab's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fabriciomasiero)](https://github.com/anuraghazra/github-readme-stats)
+[![Fab's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fabriciomasiero&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Experience
 
