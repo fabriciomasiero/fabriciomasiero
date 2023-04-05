@@ -20,6 +20,9 @@ I'm an **Apple Platforms Developer** with over 12 years of experience, working o
 ![Teamwork & Commitment](https://img.shields.io/badge/Teamwork%20%26%20Commitment-Soft_Skills-9cf?style=flat-square)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-Tools-red?style=flat-square&logo=testing-library)
 
+
+[![Fab's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciomasiero)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💼 Experience
 
 - **Senior Apple Platforms Engineer** at *FloSports* (August 2022 - Present)
