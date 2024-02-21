@@ -26,7 +26,7 @@ I'm an **Apple Platforms Developer** with over 12 years of experience, working o
 
 ## 💼 Experience
 
-- **Senior Software Engineer** at *Backtrack* (August 2023 - Present)
+- **Senior Software Engineer** at *[Backtrack](https://usebacktrack.com)* (August 2023 - Present)
 - **Senior Apple Platforms Engineer** at *FloSports* (August 2022 - July 2023)
 - **Senior Apple Platforms Engineer** at *Super Hi-Fi* (September 2020 - May 2022)
 - **Senior iOS Engineer** at *X-Team* (September 2020 - Present)
